@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c13bc32-f980-40fb-8de2-eae5827ad4ee" name="Changes" comment="Test run for the Final Project" />
+    <list default="true" id="8c13bc32-f980-40fb-8de2-eae5827ad4ee" name="Changes" comment="Test run for the Final Project." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,12 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729641742788</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test run for the Final Project.">
+      <option name="closed" value="true" />
+      <created>1729641945273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729641945273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test run for the Final Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test run for the Final Project" />
+    <MESSAGE value="Test run for the Final Project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Test run for the Final Project." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
