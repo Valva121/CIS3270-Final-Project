@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c13bc32-f980-40fb-8de2-eae5827ad4ee" name="Changes" comment="Test run for the Final Project." />
+    <list default="true" id="8c13bc32-f980-40fb-8de2-eae5827ad4ee" name="Changes" comment="Test run for the Final Project.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Valva121"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Valva121/CIS3270-Final-Project.git",
+    "accountId": "c9918938-930b-42ae-bef4-f7b1688a038c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -79,7 +93,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729641945273</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test run for the Final Project.">
+      <option name="closed" value="true" />
+      <created>1729642217485</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729642217485</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test run for the Final Project.">
+      <option name="closed" value="true" />
+      <created>1729642327949</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729642327949</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test run for the Final Project.">
+      <option name="closed" value="true" />
+      <created>1729642418908</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729642418908</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
